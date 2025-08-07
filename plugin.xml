@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <class>de.mopsdom.xmpp.MatrixBridgePlugin</class>
+    <name>${project.name}</name>
+    <description>${project.description}</description>
+    <author>Ramon</author>
+    <version>${project.version}</version>
+    <date>2025-08-05</date>
+    <minServerVersion>5.0.0</minServerVersion>
+    <csrfProtectionEnabled>true</csrfProtectionEnabled>
+</plugin>
